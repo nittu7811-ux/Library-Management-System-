@@ -1,0 +1,9 @@
+# Compiled files
+*.exe
+*.out
+*.o
+library_management
+
+# Editor / IDE files
+.vscode/
+.idea/
